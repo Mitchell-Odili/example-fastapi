@@ -31,7 +31,7 @@ app.include_router(vote.router)
 # requests Get method url: "/"
 @app.get("/")
 async def root():
-    return {"message": "Hello World Successfully deployed to Ubuntu from CI/CD pipeline"}
+    return {"message": "Hello World Successfully deployed from CI/CD pipeline"}
 
 
 
