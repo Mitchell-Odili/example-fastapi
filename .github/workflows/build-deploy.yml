@@ -75,8 +75,8 @@ jobs:
     # log into ubuntu server
     # cd /app/src
     # git pull
-    # systemctl restart api
-     
+    # systemctl restart api  
+    
 
 
 
